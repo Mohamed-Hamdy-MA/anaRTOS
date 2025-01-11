@@ -1,0 +1,9 @@
+F:/STUDY/COURSES/Mastering Embedded System Diploma/Unit_15_RTOS/anaRTOS/CMSIS/Core/Include/core_cm3.h:1742:22:__NVIC_SetPriority	2
+F:/STUDY/COURSES/Mastering Embedded System Diploma/Unit_15_RTOS/anaRTOS/CMSIS/Core/Include/core_cm3.h:1938:26:SysTick_Config	2
+../RTOS/RTOS_CMxPorting.c:27:6:HardFault_Handler	1
+../RTOS/RTOS_CMxPorting.c:31:6:MemManage_Handler	1
+../RTOS/RTOS_CMxPorting.c:35:6:BusFault_Handler	1
+../RTOS/RTOS_CMxPorting.c:39:6:UsageFault_Handler	1
+../RTOS/RTOS_CMxPorting.c:43:28:SVC_Handler	1
+../RTOS/RTOS_CMxPorting.c:59:6:RTOS_HW_init	1
+../RTOS/RTOS_CMxPorting.c:65:6:RTOS_StartOSTicker	1
